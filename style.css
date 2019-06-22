@@ -1,0 +1,35 @@
+p
+{
+	font-size: 20px;
+}
+
+img
+{
+	margin: 20px;
+}
+
+#main
+{
+	width: 1024px;
+	height: 512px;
+	border-radius: 20px;
+	text-align: center;
+	margin: auto;
+	background: #CCC;
+}
+
+#generateButton
+{
+	width: 300px;
+	height: 200px;
+	font-size: 30px;
+	margin-top: 10px;
+	border: none;
+	border-radius: 20px;
+	outline: none;
+}
+
+#generateButton:active
+{
+	background-color: #AAA;
+}
